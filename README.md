@@ -1,4 +1,4 @@
-# Olá , sou o Osni Filipo, programador e design.
+# Olá , sou o Osni Filipo, Dev e design.
 
 <!--
 How to make this gif ?
