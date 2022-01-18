@@ -7,7 +7,7 @@ Tenho o meu canal da um passada para verificar <a href="https://www.youtube.com/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnifilipo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-<div style="display: inline_block"><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="Oz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Oz-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Oz-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -16,9 +16,11 @@ Tenho o meu canal da um passada para verificar <a href="https://www.youtube.com/
   <img align="center" alt="Oz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  
 </div>
- 
+
+##
+  
+
 <div align="center">
   <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/osni.filipo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
