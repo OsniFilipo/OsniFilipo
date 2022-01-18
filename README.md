@@ -1,24 +1,5 @@
-# Olá , sou o Osni Filipo, Dev e design.
-
-<!--
-How to make this gif ?
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
-
- .typeString("Seja,Bem-Vindo")
-  .pauseFor(1000)
-  .deleteAll()
-  .typeString("Olá,👋Eu sou o Osni 😁")
-  .pauseFor(1000)
-  .deleteAll()
-  .typeString("Faço programação e design🖥️")
-  .pauseFor(1000)
-  .deleteAll()
--->
+# Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , Dev e design.
+Tenho o meu canal da um passada para verificar <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg/featured"><i>YouTube</i></a><span> 👉🏽️</span>
 
 <div align="center">
   <a href="https://github.com/OsniFilipo">
