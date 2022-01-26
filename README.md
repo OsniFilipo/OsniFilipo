@@ -1,6 +1,7 @@
 # Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , Dev e design.
-Tenho o meu canal da um passada para verificar <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg/featured"><i>YouTube</i></a><span> 👉🏽️</span>
 
+Tenho o meu canal no <a href="https://www.figma.com/@osnifilipo"><i>YouTube</i></a><span> lá tem o conteúdo de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
+  
 <div align="center">
   <a href="https://github.com/OsniFilipo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osnifilipo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
