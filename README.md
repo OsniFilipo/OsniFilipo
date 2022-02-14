@@ -1,4 +1,4 @@
-# Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , Dev e design.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , Dev e design.
 
 Tenho o meu canal no <a href="https://www.figma.com/@osnifilipo"><i>YouTube</i></a><span> lá tem o conteúdo de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
   
