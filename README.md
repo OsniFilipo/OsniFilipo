@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , Dev e design.
 
 Tenho o meu canal no <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg"><i>YouTube</i></a><span> lá tem o conteúdo de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
@@ -8,6 +10,8 @@ Tenho o meu canal no <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnifilipo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
+ ## 📚 Meu conhecimento 
+  
 <div align="center" valign="top"><br>
   <img align="center" alt="Oz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Oz-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
