@@ -16,9 +16,7 @@
 
 ## 💡 Certificados
   
--
--
--
+- <a href="https://www.cursoemvideo.com/curso/mysql/"><i>Curso de MySQL [40 Horas] do Curso em Vídeo </i></a>
 
 ## 🗺️ Repositório do GitHub de estudos
   
