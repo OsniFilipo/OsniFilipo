@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá , sou o <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><i>Osni Filipo</i></a> , sou o Dev e <a href="https://www.figma.com/@osnifilipo"><i>design Ux</i></a><span>.
+# <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+o+Osni+Filipo+;%2C+sou+Dev+e+Design+UX." alt="Typing SVG" /></a>
 
 ## 📚 Conteúdo do repositório 
 
@@ -27,7 +27,7 @@
 - <a href="https://github.com/arthurspk/guiadofrontend"><i>Guia do Desenvolvedor Front-end</i></a><span>
 -<a href="https://github.com/solygambas/html-css-javascript-projects"><i>100 Projetos em 100 Dais - HTML, CSS & JavaScript</i></a><span>
   
-## ◾ Canal do Youtube
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Canal do Youtube
 
   
 Tenho o meu canal no <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg"><i>YouTube</i></a><span> lá tem o conteúdo de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
