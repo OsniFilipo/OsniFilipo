@@ -6,16 +6,19 @@
 
 - Mostrar o que já estudei.
 - Divulgação canais de aulas de programações.
-- Compartilhe o repositório com a sua comunidade.
+- Compartilhe o repositório .
 
 ## 🚨 O que tem de especiais nestes meus repositórios
 
-- Sempre vai ter um arquivo README.md para assim o Dev conseguir ver o programa visual e depois ver o código.
+
+- Sempre vai ter um arquivo `README.md`, para assim o Dev conseguir, ver o programa visual e depois ver o código.
 - Estudos baseados em repositório anteriores.
-- Saiba sempre a base do repositório.
+- Saber sempre que o repositório tem um link do trabalho anterior e vendo a melhoria do código.
+- As `LICENSE` é livre, o dev ver o como foi feito o programação.
 
 ## 💡 Certificados
-  
+
+- <a href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/"><i>Curso de Algoritmo [40 Horas] do Curso em Vídeo </i></a>
 - <a href="https://www.cursoemvideo.com/curso/mysql/"><i>Curso de MySQL [40 Horas] do Curso em Vídeo </i></a>
 - <a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github/"><i>Curso de Git e GitHub [20 Horas] do Curso em Vídeo </i></a>
 
@@ -30,7 +33,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Canal do Youtube
 
   
-Tenho o meu canal no <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg"><i>YouTube</i></a><span> lá tem o conteúdo de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
+Tenho o meu canal no <a href="https://www.youtube.com/channel/UCfcHP173bUZB_yjRZOIAceg"><i>YouTube</i></a><span> lá tem o `conteúdo` de programação com aplicação com o <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> , tutorial e tenho a cominidade no <a href="https://www.figma.com/@osnifilipo"><i>Figma</i></a><span> aonde está o meu projetos de Design Ux.
   
 <div align="center">
   <a href="https://github.com/OsniFilipo">
