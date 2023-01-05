@@ -8,11 +8,11 @@
 
 </div>
 
-## 📚 Conteúdo do repositório 
+## 📚 Conteúdo do meu Github
 
   - Mostrar o que já estudei.
   - Divulgação canais de aulas de programações.
-  - Compartilhe o repositório .
+  - Compartilhar o repositório de Github.
 
 ## 🚨 O que tem de especiais nestes meus repositórios
 
