@@ -4,7 +4,7 @@
 
 <div align="center" width="1028">
   
- <a href="https://github.com/OsniFilipo/Guia" ><i>Guia de repositório</i></a>
+  <a href="https://github.com/OsniFilipo/Guia" ><i>Guia de repositório</i></a>
 
 </div>
 
@@ -14,7 +14,7 @@
   - Divulgação canais de aulas de programações.
   - Compartilhar o repositório de Github.
 
-## 🚨 O que tem de especiais nestes meus repositórios
+## 🚨 O que tem de especiais nestes meus Github
 
   - Sempre vai ter um arquivo `README.md`, para assim o Dev conseguir, ver o programa visual e depois ver o código.
   - Estudos baseados em repositório anteriores.
