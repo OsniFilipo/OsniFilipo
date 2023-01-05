@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
- <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+o+Osni+Filipo+;%2C+sou+Dev+e+Design+UX." alt="Typing SVG" /></a>
+ <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+o+Osni+Filipo;Seja+Bem-Vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
 <div align="center" width="1028">
-
-  # <a href="https://github.com/OsniFilipo/Guia" ><i>Guia de repositório</i></a>
+  
+ <a href="https://github.com/OsniFilipo/Guia" ><i>Guia de repositório</i></a>
 
 </div>
 
