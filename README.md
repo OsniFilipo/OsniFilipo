@@ -8,23 +8,23 @@
 
 </div>
 
-# Explorando o Mundo da Tecnologia no GitHub
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNlNTQ5NGZkNTk1NjA4OTY3MGFkNzkyZjE4ODAyMjIzOTU5ZjBlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W6dIxdifzUO92lRfu4/giphy.gif" width="25"> Explorando o Mundo da Tecnologia no GitHub
 
 Bem-vindo ao repositório do GitHub de Osni Filipo, um lugar onde a paixão pela tecnologia se encontra com a inovação e a criatividade! Prepare-se para mergulhar em um universo repleto de projetos incríveis, recursos úteis e conhecimentos valiosos.
 
-## Descubra a essência da tecnologia
+## 🌐 Descubra a essência da tecnologia
 
 Este repositório é uma vitrine do trabalho dedicado e da experiência de Osni Filipo, que abrange uma variedade de tópicos empolgantes, como desenvolvimento de software, ciência de dados, inteligência artificial, aprendizado de máquina, IoT e muito mais. Aqui, você encontrará projetos estimulantes e soluções criativas que desafiam os limites da inovação tecnológica.
 
-## Projetos inspiradores
+## 👨‍🚀 Projetos inspiradores
 
 Prepare-se para se maravilhar com uma coleção de projetos de destaque, cuidadosamente elaborados para demonstrar a habilidade e a paixão de Osni Filipo pela tecnologia. Cada projeto é uma combinação impressionante de criatividade e habilidades técnicas, oferecendo soluções inovadoras para desafios do mundo real. Prepare-se para se inspirar e descobrir novas possibilidades!
 
-## Recursos para o sucesso
+## 📈 Recursos para o sucesso
 
 Além dos projetos, este repositório oferece uma ampla variedade de recursos úteis para aprimorar suas habilidades tecnológicas. Aqui, você encontrará tutoriais detalhados, artigos perspicazes e exemplos práticos que o ajudarão a expandir seus conhecimentos e aprofundar seu domínio das mais recentes tecnologias. Esteja preparado para aprender, crescer e alcançar o sucesso no mundo da tecnologia.
 
-## Comunidade vibrante
+## 🧟 Comunidade vibrante
 
 Ao explorar este repositório, você também se tornará parte de uma comunidade vibrante e colaborativa. Conecte-se com outros entusiastas de tecnologia, compartilhe ideias, troque conhecimentos e colabore em projetos emocionantes. Juntos, podemos impulsionar a inovação e construir um futuro tecnológico brilhante.
 
