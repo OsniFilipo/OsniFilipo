@@ -2,12 +2,6 @@
 
  <a href="https://www.linkedin.com/in/osni-filipo-66a62a1a2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+o+Osni+Filipo;Seja+Bem-Vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
-<div align="center" width="1028">
-  
-  <a href="https://github.com/OsniFilipo/Guia" ><i>Guia de repositório</i></a>
-
-</div>
-
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNlNTQ5NGZkNTk1NjA4OTY3MGFkNzkyZjE4ODAyMjIzOTU5ZjBlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W6dIxdifzUO92lRfu4/giphy.gif" width="25"> Explorando o Mundo da Tecnologia no GitHub
 
 Bem-vindo ao repositório do GitHub de Osni Filipo, um lugar onde a paixão pela tecnologia se encontra com a inovação e a criatividade! Prepare-se para mergulhar em um universo repleto de projetos incríveis, recursos úteis e conhecimentos valiosos.
@@ -23,16 +17,6 @@ Prepare-se para se maravilhar com uma coleção de projetos de destaque, cuidado
 ## 📈 Recursos para o sucesso
 
 Além dos projetos, este repositório oferece uma ampla variedade de recursos úteis para aprimorar suas habilidades tecnológicas. Aqui, você encontrará tutoriais detalhados, artigos perspicazes e exemplos práticos que o ajudarão a expandir seus conhecimentos e aprofundar seu domínio das mais recentes tecnologias. Esteja preparado para aprender, crescer e alcançar o sucesso no mundo da tecnologia.
-
-## 🧟 Comunidade vibrante
-
-Ao explorar este repositório, você também se tornará parte de uma comunidade vibrante e colaborativa. Conecte-se com outros entusiastas de tecnologia, compartilhe ideias, troque conhecimentos e colabore em projetos emocionantes. Juntos, podemos impulsionar a inovação e construir um futuro tecnológico brilhante.
-
-# Venha fazer parte da revolução tecnológica
-
-O repositório do GitHub de Osni Filipo é uma janela para o mundo da tecnologia, um convite para explorar e descobrir novas fronteiras. Se você é um entusiasta de tecnologia, um desenvolvedor curioso ou alguém apaixonado por inovação, este é o lugar perfeito para você. Prepare-se para se surpreender, aprender e criar impacto no mundo com suas habilidades tecnológicas.
-
-Estamos animados para ver você explorando o repositório do GitHub de Osni Filipo! Junte-se a nós nessa jornada emocionante e descubra o poder da tecnologia para transformar o mundo.
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Canal do Youtube
 
